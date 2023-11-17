@@ -1,12 +1,12 @@
 # Predictive-Modeling-of-Customer-dataset
-This is an Induatry collaborated project, taken at ***Purdue University Northwest, United States***.
+This is an Induatry collaborated project, undertaken at ***Purdue University Northwest, United States***.
 
 The model aims to analyze factors that affect the non-paying tendency of customers using Machine Learning models. 
 Further, the relationship between non-paying tendencey and risk category of customers were analyzed to predict future trends.
 
 ## Dataset
 
-The Dataset is of a leading Utility company of the US. The data annot be disclosed, however, due to Confidentiality Agreement with the company.
+The Customer dataset is of a leading Utility company in the US.
 
 ## Result
 
