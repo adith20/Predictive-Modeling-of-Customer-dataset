@@ -6,7 +6,7 @@ Further, the relationship between non-paying tendencey and risk category of cust
 
 ## Dataset
 
-The Customer dataset is of a leading Utility company in the US.
+The Customer dataset is of a Utility company in the US. The dataset is restricted due to NDA.
 
 ## Result
 
